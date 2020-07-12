@@ -11,5 +11,7 @@ I'm Vinicius Dias, I'm a Frontend developer 👨‍💻 who is passionate about 
 - 💬 Ask me about: tech, music, surf&skate and a little bit about investments.
 -  ⚡ Technologies: React, Node, Gatsbyjs, React-Native, Graphql
 
+> :octocat: [viniciusdias.works](https://viniciusdias.works)
+
 "Knowledge is the path to freedom." 
 
