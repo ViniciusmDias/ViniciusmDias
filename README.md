@@ -19,7 +19,7 @@ I'm Vinicius Dias, I'm a Frontend developer 👨‍💻 who is passionate about 
   
 ## Blog - Dev
 
-> Aug 13 - [Easy start of a Typescript/React project (w/ ESlint and Prettier)](https://dev.to/viniciusmdias/easy-start-of-a-typescript-react-project-w-yarn-eslint-and-prettier-4gdk)
+> Aug 13 - [Easy start of a Typescript/React project (w/ ESlint and Prettier)](https://dev.to/viniciusmdias/easy-start-of-a-typescript-react-project-w-eslint-and-prettier-55d4)
 
 > Jul 13 - [GatsbyJS Portfolio](https://dev.to/viniciusmdias/gatsbyjs-portfolio-3461)
 
