@@ -3,6 +3,8 @@
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/12553623/vinicius-dias)](https://stackoverflow.com/users/12553623/vinicius-dias)
 [![Gmail Badge](https://img.shields.io/badge/-viniciusimpulse@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusimpulse@gmail.com)](mailto:viniciusimpulse@gmail.com)
 
+![me](https://raw.githubusercontent.com/ViniciusmDias/my-portfolio/master/src/images/foto-capa-git-filtrada2.jpg "Me") 
+
 ## Hello friend
 I'm Vinicius Dias, I'm a Frontend developer 👨‍💻 who is passionate about JavaScript technologies and its entire ecosystem. 
 
