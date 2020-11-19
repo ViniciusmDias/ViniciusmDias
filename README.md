@@ -8,9 +8,9 @@ I'm Vinicius Dias, I'm a Frontend developer 👨‍💻 who is passionate about 
 ## About me
 
 - 🔭 I’m currently working on JavaScript, React and Gatsby apps/websites
-- 🌱 I’m currently learning Tests, React-Native, Graphql, Soft-Skills and of course JS improvments
+- 🌱 I’m currently learning Tests, Next.js, React, Soft-Skills and of course JS improvments
 - 💬 Ask me about: tech, music, surf&skate and a little bit about investments.
--  ⚡ Technologies: React, Node, Gatsbyjs, React-Native, Graphql
+-  ⚡ Technologies: React, Node, Next.js, Gatsby.js, React-Native, Graphql
 
 </td><td valign="top" width="49%">
   
