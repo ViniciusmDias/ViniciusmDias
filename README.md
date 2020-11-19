@@ -1,6 +1,6 @@
 ![me](https://raw.githubusercontent.com/ViniciusmDias/my-portfolio/master/src/images/foto-capa-git-filtrada2.jpg "Me") 
 
-## Hello friend
+## Hello everyone
 I'm Vinicius Dias, I'm a Frontend developer 👨‍💻 who is passionate about JavaScript technologies and its entire ecosystem. 
 
 <table><tr><td valign="top" width="49%">
