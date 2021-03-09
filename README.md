@@ -1,20 +1,7 @@
 ![me](https://raw.githubusercontent.com/ViniciusmDias/my-portfolio/master/src/images/foto-capa-git-filtrada2.jpg "Me") 
 
-## Hello everyone
-I'm Vinicius Dias, I'm a Frontend developer 👨‍💻 who is passionate about JavaScript technologies and its entire ecosystem. 
-
-<table><tr><td valign="top" width="49%">
-
-## About me
-
-- 🔭 I’m currently working on JavaScript, React and Gatsby apps/websites
-- 🌱 I’m currently learning Tests, Next.js, React, Soft-Skills and of course JS improvments
-- 💬 Ask me about: tech, music, surf&skate and a little bit about investments.
--  ⚡ Technologies: React, Node, Next.js, Gatsby.js, React-Native, Graphql
-
-</td><td valign="top" width="49%">
   
-## Blog - Dev
+## Dev.to
 
 > Aug 13 - [Easy start of a Typescript/React project (w/ ESlint and Prettier)](https://dev.to/viniciusmdias/easy-start-of-a-typescript-react-project-w-eslint-and-prettier-55d4)
 
@@ -22,7 +9,6 @@ I'm Vinicius Dias, I'm a Frontend developer 👨‍💻 who is passionate about 
 
 </td></tr></table>
 
-[![ViniDias's github stats](https://github-readme-stats.vercel.app/api?username=viniciusmdias)](https://github.com/viniciusmdias/github-readme-stats)
 
 > :octocat: [My portfolio](https://viniciusdias.works)
 
