@@ -1,4 +1,4 @@
-![me](https://raw.githubusercontent.com/ViniciusmDias/my-portfolio/master/src/images/foto-capa-git-filtrada2.jpg "Me") 
+[me](https://www.linkedin.com/in/vinicius-m-dias/) 
 
   
 ## Dev.to
@@ -14,7 +14,7 @@
 </td></tr></table>
 
 
-> :octocat: [My portfolio](https://viniciusdias.works)
+> :octocat: [My portfolio](https://viniciusdias.netlify.app/)
 
 "Knowledge is the path to freedom." 
 
